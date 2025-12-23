@@ -15,4 +15,8 @@ public class WrapperClassDemo {
 		int z = y;
 		System.out.println(y +" "+ z);
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7a77f47a8cae6e4df3ddfb91aaab62c262b83b63
 }
