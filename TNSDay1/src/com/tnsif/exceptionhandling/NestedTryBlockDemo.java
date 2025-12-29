@@ -10,7 +10,11 @@ public class NestedTryBlockDemo {
 	}
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		int x, y, z;
+=======
+		int x, y,z;
+>>>>>>> 90225bc4a2f6c218b6589e23aab6ade8f04445f8
 		try {
 			x = Integer.parseInt(args[0]); // command line args
 			y = Integer.parseInt(args[1]);
