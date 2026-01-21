@@ -1,0 +1,10 @@
+package com.tnsif.personalinterview;
+
+public class PersonalInterview {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
